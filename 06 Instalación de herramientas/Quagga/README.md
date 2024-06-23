@@ -2,7 +2,7 @@ Para instalar la suite de Quagga, debemos ejecutar:
 ```bash
 ./instalarQuagga.sh
 ```
-Después del reinicio, comprobar que existe un `1` al momento de ejecutar:
+Comprobar que existe un `1` al momento de ejecutar:
 ```bash
 cat /proc/sys/net/ipv4/ip_forward
 ```
