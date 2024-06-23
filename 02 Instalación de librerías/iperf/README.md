@@ -5,3 +5,5 @@ Para instalarlo, usamos el comando:
 sudo apt update && sudo apt upgrade -y
 sudo apt install iperf
 ```
+Se han detallado los comandos para 
+- [Carpeta cliente](cliente/)
