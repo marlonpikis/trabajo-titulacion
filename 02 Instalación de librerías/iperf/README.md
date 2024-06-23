@@ -1,9 +1,10 @@
-Esta librería será instalada en todas las Raspberry's. Incluyendo los clientes.
+Iperf nos ayudará a medir el ancho de banda disponible entre dos nodos.
 
-Para instalarlo, usamos el comando:
+Esta librería será instalada en todas las Raspberry's. Incluyendo los clientes que solicitarán el video.
+
+Para instalarla, usamos el comando:
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install iperf
 ```
-Se han detallado los comandos para 
-- [Carpeta cliente](cliente/)
+Debemos ejecutar los comandos de [servidor](servidor/) y [cliente](cliente/).
