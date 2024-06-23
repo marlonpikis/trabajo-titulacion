@@ -1,2 +1,2 @@
-Según la topología mostrada en la siguiente figura .
-
+Se seguirá la siguiente topología de red.
+![Topología](topologia.png)
