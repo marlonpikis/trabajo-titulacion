@@ -7,8 +7,14 @@ Autores:
 En este repositorio se encuentran todos los comandos, códigos y scripts de nuestro trabajo de titulación para su uso académico o investigativo.
 
 1. Instalación del sistema operativo
-2. Instalación iperf
-    1. Iperf modo cliente
-    2. Iperf modo servidor
-3. Graficar anchos de banda
-4. Filtrar tasa de bits
+2. Instalación de librerías
+    1. iperf
+        1. cliente
+        2. servidor
+    2. traceroute
+3. Caracterización de adaptadores
+4. Tráfico real
+5. Caracterización de videos
+6. Instalación de herramientas
+7. Archivos de configuración
+8. Automatización 
