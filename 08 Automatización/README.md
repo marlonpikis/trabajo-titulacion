@@ -7,3 +7,5 @@ Nuestros Raspberry están conectados a una red wifi "tesis", las direcciones IP 
 Para automatizar el proceso de inicio de OVS o QUAGGA, se han generado los códigos en python.
 
 Esto creará una conexión SSH para ejecutar los scripts de inicialización.
+
+El código `stopAll.sh` deberá ser colocado en la ruta `~/` de todos los nodos.
