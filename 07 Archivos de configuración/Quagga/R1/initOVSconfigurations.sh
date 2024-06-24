@@ -8,8 +8,8 @@ Carrera de Telecomunicaciones
 Trabajo de titulación
 
 Autores:
-        Marlon Xavier Gomezcoello Rodríguez
-        Justin Mateo Picón Barros
+	Marlon Xavier Gomezcoello Rodríguez
+	Justin Mateo Picón Barros
 
 Inicializar el servicio de OVS en R1
 COMMENT
