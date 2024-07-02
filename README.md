@@ -6,8 +6,6 @@ Autores:
 ***
 En este repositorio se encuentran todos los comandos, códigos y scripts de nuestro trabajo de titulación para su uso académico o investigativo.
 
-<details open="open">
-<summary>Tabla de contenidos</summary>
 1. Instalación del sistema operativo
 2. Instalación de librerías
     1. iperf
@@ -20,4 +18,3 @@ En este repositorio se encuentran todos los comandos, códigos y scripts de nues
 6. Instalación de herramientas
 7. Archivos de configuración
 8. Automatización 
-</details>
